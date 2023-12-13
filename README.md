@@ -7,14 +7,15 @@
 
 ## Steps 
 
-* Go to Edit->Prefences.
-* Click Android.
-* Install [Android Studio](https://developer.android.com/studio).
+* Open Qt Creator.
+* Go to Edit -> Preferences.
+* Click on Android in the Preferences window.
+* Ensure that to install [Android Studio](https://developer.android.com/studio).
 * Install [JDK 18.0.2](https://www.oracle.com/java/technologies/javase/jdk18-archive-downloads.html).
-* Give the proper locations of JDK and SDK.
-* Click setup SDK make sure all the ticks turn to green.
-* Click SDK manager. Select the desire andoid version for yours.
-* Go to Devices and Add android device if it does not shows close and open the Qt.
-* After adding the Device refresh and start avd.
-* Now you can run your code in the virtual machine
-  ![IMG](Screenshot 2023-12-13 133543.png)
+* Provide the proper file paths for JDK and Android SDK in Qt Creator settings.
+* Click on Setup SDK. Verify that all the required components are installed (indicated by green ticks).
+* Open the SDK Manager and select the desired Android version(s) for your development needs.
+* Go to Devices and add an Android device. If it doesn't appear, close and reopen Qt Creator.
+* After adding the device, refresh and start the Android Virtual Device (AVD).
+* Now you can run your code in the virtual machine.
+
