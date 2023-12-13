@@ -1,4 +1,4 @@
-# ## Configure Qt Creator for Android Development ##
+#  Configure Qt Creator for Android Development 
 
 ## Prerequisites: 
 * QtCreator(Open Source or Lincensed)
