@@ -1,6 +1,6 @@
-# Add_Android_in_QtCreator
+# ##Configure Qt Creator for Android Development##
 
-## Things needed 
+## Prerequisites: 
 * QtCreator(Open Source or Lincensed)
 * Android Studio
 * JDK(Java Development Kit) 
