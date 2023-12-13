@@ -5,7 +5,7 @@
 * Android Studio
 * JDK(Java Development Kit) 
 
-## Steps 
+## Steps:
 
 * Open Qt Creator.
 * Go to Edit -> Preferences.
