@@ -17,4 +17,4 @@
 * Go to Devices and Add android device if it does not shows close and open the Qt.
 * After adding the Device refresh and start avd.
 * Now you can run your code in the virtual machine
-  ![IMG]()
+  ![IMG](Screenshot 2023-12-13 133543.png)
