@@ -10,7 +10,7 @@
 * Go to Edit->Prefences.
 * Click Android.
 * Install [Android Studio](https://developer.android.com/studio).
-* Install JDK 18.0.2.
+* Install [JDK 18.0.2](https://www.oracle.com/java/technologies/javase/jdk18-archive-downloads.html).
 * Give the proper locations of JDK and SDK.
 * Click setup SDK make sure all the ticks turn to green.
 * Click SDK manager. Select the desire andoid version for yours.
