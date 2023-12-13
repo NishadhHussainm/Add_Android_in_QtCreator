@@ -8,7 +8,7 @@
 ## Steps:
 
 * Open Qt Creator.
-* Go to Edit -> Preferences.
+* Go to `Edit` -> `Preferences`.
 * Click on Android in the Preferences window.
 * Ensure that to install [Android Studio](https://developer.android.com/studio).
 * Install [JDK 18.0.2](https://www.oracle.com/java/technologies/javase/jdk18-archive-downloads.html).
